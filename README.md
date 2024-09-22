@@ -1,5 +1,16 @@
 # wpitsaros.github.io
+
 1. Wyatt Pitsaros | wa.pitsaros@gmail.com
 2. My GitHub account was originally created for a non-credit Python course at Wake Technical Community College. It is now being revived for my CTI 110 course and will be used throughout the rest of my educational journey.
 3. This repository has been created for assignments in my CTI 110 course. It currently has nothing in it except for this README file.
 4. I installed the desktop application for GitHub from desktop.github.com, opened the application and signed in with my GitHub account. Once I was signed in, I was shown all of my existing repositories and encouraged to clone one to my local machine. I opted to follow the instructions provided by the document instead so I could understand how to do so in the future. I clicked on the "+" icon in the top left corner of the screen and selected "clone a repository". I chose my recently created "wpitsaros.github.io" repository as required by my assignment and left it assigned to the default file path that GitHub recommended for my local machine. Then it was available through my local machine and I was able to access the README file for editing by navigating my File Explorer.
+
+
+
+# About Me
+## My Interests & Hobbies
+    In my spare time, I enjoy amateur photography. I use a Panasonic Lumix G9 for a variety subjects, but I purchased this camera and a 100-300mm lens for bird photography. The Micro 4/3 sensor inside gives the lens a crop factor of x2 meaning that the lens is equivalent to a 200-600mm lens on a more profesional "full-frame" camera. While I lost some image quality, I saved a lot of money and my gear weighs significantly less, making my hobby more accessible and comfortable.
+    I also enjoy reading books and tracking my reading habits with apps such as Goodreads and StoryGraph. I mostly read science fiction, but enjoy thrillers, horror, fantasy, and speculative fiction. As I have grown older, I find that I also enjoy more nonfiction books about historical events. My partner is studying for her Masters in Library and Information Sciences and works for Wake County Public Libraries so it is easy to stay engaged with this hobby.
+## Websites That I Recommend
+    - [WRAL Weather Radar] (https://www.wral.com/weather-map-center/8106570/) - I use WRAL Weather Radar on a regular basis to track the severity of local storms. It is a fast and accurate radar system with minimal intrusive ads, and even shows a projection of the next hour. This has been helpful on numerous occasions for informing me of local travel conditions.
+    - [Good Old Games] (https://www.gog.com/en/) - I use Good Old Games to find old and new games alike! It hosts a variety of older video games that are either not on Steam or inaccessible now due to no longer being made on discs. My favorite benefit of using Good Old Games is that every game purchased is DRM free, meaning that once you purchase a game you own it and can install it on as many systems as you want, and as long as the game is installed you do not need an internet connection to verify you own the license to the game. In an industry that is constantly moving towards a "Live-Service" model, it is refreshing and reassuring to see services like this still exist.
